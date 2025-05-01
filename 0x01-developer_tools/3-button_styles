@@ -1,0 +1,15 @@
+Background Color: rgb(248, 249, 250)
+Color: rgb(33, 37, 41)
+Border: 1.6px solid rgb(248, 249, 250)
+Padding: 16px 28px
+Margin: 0px
+Font Size: 20px
+Font Weight: 400 (normal)
+Text Decoration: none solid rgb(33, 37, 41)
+Display: inline-block
+Width: 218.863px
+Height: 65.2px
+Border Radius: 8px
+Box Shadow: none
+Cursor: pointer
+Opacity: 1
